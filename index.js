@@ -4,4 +4,5 @@ module.exports = {
   series: require('./lib/series'),
   waterfall: require('./lib/waterfall'),
   zip: require('./lib/zip'),
+  throttle: require('./lib/throttle'),
 }
